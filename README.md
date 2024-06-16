@@ -1,14 +1,14 @@
-inputData.csv - Файл инпута для нейросети
+inputData.csv - Input file for the neural network
 
-outputData.csv - Файл вывода для нейросети
+outputData.csv - Output file for the neural network
 
-mel.txt - Файл значений мел-спектрограммы
+mel.txt - File containing Mel spectrogram values
 
-mel.png - Визуальный файл мел-спектрограммы по моим настройкам
+mel.png - Visual file of the Mel spectrogram with my settings
 
-1000.png - Идеальный файл мел-спектрограммы без ограничений по данным
+1000.png - Ideal file of the Mel spectrogram without data limitations
 
-0170.rar - Файл с .vmd и .wav (Без модели)
+0170.rar - File with .vmd and .wav (Without model)
 
 
 
